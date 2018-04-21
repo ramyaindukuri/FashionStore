@@ -1,6 +1,6 @@
 const http=require ('http');
 
-const app=require('./index');
+const app=require('./src/index');
 
 const server=http.createServer(app);
 
