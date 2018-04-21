@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ramyaindukuri/FashionStore/issues"
   },
-  "homepage": "https://github.com/ramyaindukuri/FashionStore#readme"
+  "homepage": "https://github.com/ramyaindukuri/FashionStore#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
