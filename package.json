@@ -2,7 +2,7 @@
   "name": "fashionstore",
   "version": "1.0.0",
   "description": "This is a fashion store",
-  "main": "\u001b[D\u001b[D\u001b[D\u001bserver.js)\u001b[D\u001b[Dindex\u001b[\u001b[C\u001b[C\u001b[C\u001b.js)server.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ramyaindukuri/FashionStore#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17"
   }
 }
